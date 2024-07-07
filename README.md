@@ -1,7 +1,7 @@
 ## ssr-local
 Built with Apple Silicon for Surge support
 
-#SOP:
+**SOP:
 git clone https://github.com/ShadowsocksR-Live/shadowsocksr-native.git
 
 mv shadowsocksr-native ssr-n
