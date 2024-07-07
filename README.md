@@ -2,6 +2,7 @@
 Built with Apple Silicon for Surge support
 
 **SOP:
+
 git clone https://github.com/ShadowsocksR-Live/shadowsocksr-native.git
 
 mv shadowsocksr-native ssr-n
